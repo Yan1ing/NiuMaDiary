@@ -1,0 +1,29 @@
+# Android Studio / IntelliJ
+*.iml
+.idea/
+
+# Local Android and Gradle environments
+.android-sdk/
+.android-tools/
+.gradle/
+.gradle-user-home/
+.gradle-dist/
+.kotlin/
+.wrapper-generator/
+local.properties
+
+# Build outputs
+build/
+**/build/
+captures/
+dist/
+
+# Signing material and local secrets
+*.jks
+*.keystore
+keystore.properties
+secrets.properties
+
+# Operating-system files
+.DS_Store
+Thumbs.db

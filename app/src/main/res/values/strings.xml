@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">牛马日记</string>
+
+    <string name="nav_today">今天</string>
+    <string name="nav_calendar">日历</string>
+    <string name="nav_stats">统计</string>
+    <string name="nav_settings">设置</string>
+
+    <string name="today_title">今天</string>
+    <string name="today_default_greeting">先活过今天，再说别的。</string>
+    <string name="today_mood_title">此刻精神电量</string>
+    <string name="today_mood_hint">点一下就能留下当前状态</string>
+    <string name="today_note_hint">此刻想吐槽点什么……</string>
+    <string name="today_tags">顺手贴个标签</string>
+    <string name="today_save_note">记下这句</string>
+    <string name="today_save_mood">只记状态</string>
+    <string name="today_saving">存档中…</string>
+    <string name="today_timeline">今日现场</string>
+    <string name="today_empty_title">工位暂时风平浪静</string>
+    <string name="today_empty_body">第一句吐槽随时可以从上面开始。</string>
+    <string name="today_summary_title">今日收工报告</string>
+    <string name="today_summary_empty">下班后，给今天留一句结案陈词。</string>
+    <string name="today_summary_add">写个总结</string>
+    <string name="today_summary_edit">修改总结</string>
+
+    <string name="calendar_title">精神状态日历</string>
+    <string name="calendar_subtitle">没记录的日子只是空白，不代表好或坏。</string>
+    <string name="calendar_workday">上班</string>
+    <string name="calendar_rest_day">休息</string>
+    <string name="calendar_has_note">有记录</string>
+
+    <string name="day_detail_back">返回日历</string>
+    <string name="day_detail_title">这一天</string>
+    <string name="day_detail_add">补记一句</string>
+    <string name="day_detail_timeline">当天时间线</string>
+    <string name="day_detail_empty_title">这一天没有留下文字</string>
+    <string name="day_detail_empty_body">空白也没关系，想起来时再补一句。</string>
+    <string name="day_detail_summary">当天总结</string>
+
+    <string name="settings_title">设置</string>
+    <string name="settings_subtitle">让它按你的真实工位生活来算。</string>
+    <string name="settings_schedule">工作作息</string>
+    <string name="settings_employment_date">入职日期</string>
+    <string name="settings_work_hours">工作时间</string>
+    <string name="settings_timezone">工作地时区</string>
+    <string name="settings_makeup_days">跟随国务院调休补班</string>
+    <string name="settings_makeup_days_hint">关闭后固定双休，周末永不上班</string>
+    <string name="settings_reminders_privacy">提醒与隐私</string>
+    <string name="settings_summary_reminder">下班总结提醒</string>
+    <string name="settings_summary_reminder_hint">只在有效工作日提醒</string>
+    <string name="settings_reminder_time">提醒时间</string>
+    <string name="settings_privacy_lock">打开应用时验证身份</string>
+    <string name="settings_privacy_lock_hint">使用手机指纹、面容或锁屏密码</string>
+    <string name="settings_data">我的数据</string>
+    <string name="settings_export">导出日记</string>
+    <string name="settings_export_hint">保存完整 JSON 和可阅读 Markdown</string>
+    <string name="settings_import">导入日记</string>
+    <string name="settings_import_hint">先预览，再合并，不偷偷覆盖</string>
+    <string name="settings_holiday_data">节假日数据</string>
+    <string name="settings_local_notice">日记只保存在这台手机。卸载应用前，请先导出备份。</string>
+    <string name="settings_about">关于</string>
+    <string name="settings_privacy_statement">无账号 · 无广告 · 默认不联网</string>
+</resources>
